@@ -4,25 +4,25 @@ Last updated: April 05, 2024
 
 This Privacy Policy describes the policies and procedures of Qualitime Software Private Limited ("we", "us", or "our") regarding the collection, use, and disclosure of data when you use our mobile application "1 App".
 
-**1. Collection and Use of Data**
+1. Collection and Use of Data
 
 We may collect and use certain non-personal data solely for the purpose of providing and improving the App. This data may include:
 
-- **Location Data:** The App may request access to your device's location to determine your distance from pickup locations or other current locations for specific functionalities within the App. Location data is only accessed and used when explicitly enabled by you for specific features within the App.
+- Location Data: The App may request access to your device's location to determine your distance from pickup locations or other current locations for specific functionalities within the App. Location data is only accessed and used when explicitly enabled by you for specific features within the App.
 
-- **Camera Access:** The App may request access to your device's camera for barcode scanning functionalities. Camera access is only enabled when required by you for specific features within the App.
+- Camera Access: The App may request access to your device's camera for barcode scanning functionalities. Camera access is only enabled when required by you for specific features within the App.
 
-**2. Consent**
+2. Use of Non-Personal Data
 
-By using the App, you consent to the collection and use of non-personal data as outlined in this Privacy Policy. You have the option to enable or disable location tracking and barcode scanning functionalities within the App at any time.
+The App may collect non-personal data such as your device's IP address and device information for analytical and operational purposes. This data is used to improve the functionality and performance of the App and is not associated with any personally identifiable information.
 
-**3. Contact Us**
+3. Contact Us
 
 If you have any questions or concerns about this Privacy Policy or the practices of the App, you may contact us at:
 
-- Email: [neatmovemail@qualitime.in](mailto:neatmovemail@qualitime.in)
-- Website: [https://qualitime.in/](https://qualitime.in/)
+- Email: neatmovemail@qualitime.in
+- Website: https://qualitime.in/
 
-**4. Changes to this Privacy Policy**
+4. Changes to this Privacy Policy
 
 We reserve the right to update or modify this Privacy Policy at any time. Any changes will be posted on this page, and the "Last updated" date will be revised accordingly. You will be notified of any significant changes via email or a prominent notice within the App. It is advised to review this Privacy Policy periodically for any updates.
