@@ -14,7 +14,7 @@ We may collect and use certain non-personal data solely for the purpose of provi
 
 2. Use of Non-Personal Data
 
-The App may collect non-personal data such as your device's IP address and device information for analytical and operational purposes. This data is used to improve the functionality and performance of the App and is not associated with any personally identifiable information.
+The App may collect non-personal data such as your device's IP address and device information for analytical and operational purposes.
 
 3. Changes to this Privacy Policy
 
